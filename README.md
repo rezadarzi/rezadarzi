@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rezadarzi
 - 👀 I’m interested in LINUX
-- 🌱 I’m currently learning K8S and Terraform
 - 💞️ I’m looking to collaborate on DevOps position
 - 📫 How to reach me www.linkedin.com/in/rezadarzi
 - https://rezadarzi.com
